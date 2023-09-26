@@ -25,7 +25,7 @@ public class Main
             }
             else
             {
-                System.out.println("You get a... wait... I don't know this party, so you get a high five!");
+                System.out.println("You get a... wait... I don't know this party, so you get a high five!!");
             }
         }
     }
